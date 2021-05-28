@@ -1,0 +1,37 @@
+// Variables
+$theme-colors: (
+	'danger': #d33034,
+	'footer': #111,
+);
+
+$headings-font-weight: 900;
+$dropdown-link-hover-bg: #bb2a2d;
+
+// =============================================================
+// Reboot
+body,
+input,
+textarea,
+button,
+span,
+p,
+a {
+	font-family: Poppins, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Roboto, sans-serif;
+}
+
+// Partes obrigatórias
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+@import 'navbar.scss';
+@import 'nav.scss';
+@import 'background.scss';
+@import 'card.scss';

@@ -1,0 +1,41 @@
+{
+	"CookerMasterLine": [
+		{
+			"title": "Fogões a Gás",
+			"image": "./public/assets/img/produtos/cookerMasterLine",
+			"features": [
+				"Construção extra reforçada em Aço Inoxidável AISI 304, liga 18/8",
+				"Grelhas do tipo radiante em ferro fundido",
+				"Queimadores 6500 kcal a gás em ferro fundido de alto rendimento, desmontáveis para facilitar a limpeza",
+				"Conjunto de Bandejas Aparadoras em Chapa de Aço Inoxidável AISI 304, liga 18/8",
+				"Tubo de Distribuição em Aço Qualificado tratado",
+				"Painel frontal em Aço Inoxidável",
+				"Registro de Graduação de chama com Manípulos em Baquelite"
+			]
+		},
+		{
+			"title": "Forno Para Acoplar ao Fogão",
+			"features": [
+				"Construção extra reforçada em Aço Inoxidável AISI 304, liga 18/8",
+				"Construção interna em Aço Inoxidável",
+				"3 Pares de Trilhos reguláveis para ajuste altura",
+				"Prateleira Gradeada",
+				"Isolamento térmico em lã de vidro",
+				"Padrão Gn’s 2/1",
+				"Queimadores 6500 kcal"
+			]
+		},
+		{
+			"title": "Forno Para Acoplar ao Fogão",
+			"features": [
+				"Construção extra reforçada em Aço Inoxidável AISI 304, liga 18/8",
+				"Construção interna em Aço Inoxidável",
+				"3 Pares de Trilhos reguláveis para ajuste altura",
+				"Prateleira Gradeada",
+				"Isolamento térmico em lã de vidro",
+				"Padrão Gn’s 2/1",
+				"Queimadores 6500 kcal"
+			]
+		}
+	]
+}
